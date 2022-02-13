@@ -202,18 +202,8 @@
 					</a>
 					<ul class="content-dropdown">
 						<li class="active"><a href="#">English</a></li>
-						<li><a href="#">French</a></li>
 						<li><a href="#">German</a></li>
-					</ul>
-				</div>
-				<div class="header-currency item-dropdown">
-					<a href="#" class="top-bar__item">USD
-						<i class="fa fa-angle-down"></i>
-					</a>
-					<ul class="content-dropdown">
-						<li><a href="#"><span class="symbol">€</span>EUR</a></li>
-						<li class="active"><a href="#"><span class="symbol">$</span>USD</a></li>
-						<li><a href="#"><span class="symbol">£</span>GBP</a></li>
+						<li><a href="#">Turkish</a></li>
 					</ul>
 				</div>
 			</div>
@@ -264,8 +254,8 @@
 			        <li class="active dropdown">
 			          	<a href="index.html" class="dropdown-toggle" data-toggle="dropdown" role="button" aria-haspopup="true" aria-expanded="false">Home <span class="caret"></span></a>
 			          	<ul class="dropdown-menu">
-				          	<li><a href="https://theme.app.prod.fuznet.com/enercos/html/index.html">Home 1</a></li>
-				            <li><a href="https://theme.app.prod.fuznet.com/enercos/html/v2/index.html">Home 2</a></li>
+				          	<li><a href="index.php">Home 1</a></li>
+				            <li><a href="index.php">Home 2</a></li>
 			         	</ul>
 		       		</li>
 			        <li class="dropdown">
