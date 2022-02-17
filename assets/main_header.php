@@ -1,4 +1,4 @@
-<header class="header home2">
+<header class="header section-bg" style="background-image:url(assets/images/bg_header.jpg)">
 		<!-- top-bar -->
 		<div class="topbar">
 			<div class="container">
@@ -11,7 +11,7 @@
 				            </a>
 				        </div>
 			            <div class="top-bar-account">
-				            <a class="top-bar__item" href="#">
+				            <a class="top-bar__item" href="account.html">
 				            	<i class="fa fa-lock" aria-hidden="true"></i>
 				            	login
 				            </a>
@@ -20,7 +20,7 @@
 								    <div class="login-form-head">
 								      	<span class="login-form-title">Sign in</span>
 						      	<span class="pull-right">
-								     	 	<a class="register-link" href="account.html" title="Register">Create an Account</a>
+								     	 	<a class="register-link" href="#" title="Register">Create an Account</a>
 								     	 </span>
 								    </div>
 								    <form class="opal-login-form-ajax" data-toggle="validator">
@@ -33,7 +33,7 @@
 								        <input name="password" type="password" required="" placeholder="Password">
 								        </p>
 								        <button type="submit" data-button-action="" class="btn btn-primary btn-block">Login</button>
-								        <input type="hidden" name="action" value="">
+								       	<input type="hidden" name="action" value="">
 								        <input type="hidden" id="security-login" name="security-login" value="">
 								        <input type="hidden" name="login" value="">
 								    </form>
@@ -72,7 +72,7 @@
 					<div class="navbar-header">
 						<!-- Logo -->
 						<div class="navbar-brand">
-							<a class="logo" href="index.html"><img src="assets/images/logo-3.png" alt=""></a> 
+							<a class="logo" href="index.php"><img src="assets/images/footer_logo.png" alt=""></a> 
 						</div>
 						<!-- /Logo -->
 					</div>
@@ -117,9 +117,9 @@
 	    </div>
 	    <!-- /header-main -->
 	</header>
-		<!--/header-desktop -->
+	<!-- /Headerdesktop -->
 
-		<!-- header-mobile -->
+	<!-- header-mobile -->
 	<div class="header-mobile home2">
 		<div class="header-mobile-top">
 	        <div class="top-bar">
@@ -186,4 +186,3 @@
 		    </div>
 		</nav>
 	</div>
-	

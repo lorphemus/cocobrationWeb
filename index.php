@@ -35,7 +35,7 @@
     	==== Start header -->
 
 		<!-- header-desktop -->
-		<?php include("assets/header.php"); ?>
+		<?php include("assets/home_header.php"); ?>
     	<!--/header-mobile -->
 
 	<!-- =====================================================================
