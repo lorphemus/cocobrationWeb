@@ -1,7 +1,6 @@
 <!DOCTYPE html>
 <html lang="en">
 
-<!-- Mirrored from theme.app.prod.fuznet.com/enercos/html/v3/about.html by HTTrack Website Copier/3.x [XR&CO'2014], Sun, 13 Feb 2022 12:09:42 GMT -->
 <head>
 	<meta charset="utf-8">
 	<meta http-equiv="X-UA-Compatible" content="IE=edge">
@@ -270,5 +269,4 @@
    
 </body>
 
-<!-- Mirrored from theme.app.prod.fuznet.com/enercos/html/v3/about.html by HTTrack Website Copier/3.x [XR&CO'2014], Sun, 13 Feb 2022 12:09:44 GMT -->
 </html>
