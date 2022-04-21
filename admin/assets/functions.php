@@ -1,4 +1,7 @@
 <?php
+/* Admin Title */
+$admin_title="Cocobration - Yönetim Paneli";
+
 /* Seçme */
 function select($table_name, $setting){
 	include("connect.php");

@@ -1,6 +1,6 @@
 <?php
 $host="localhost";
-$database="excess";
+$database="cocobration_db";
 $user="root";
 $pass=""; 
 try{
@@ -10,5 +10,5 @@ try{
     echo "Bağlantı Hatası:" . $e->getMessage();
 }
 
-$base_link="http://localhost/excess/";
+$base_link="http://localhost/cocobration/";
 ?>
