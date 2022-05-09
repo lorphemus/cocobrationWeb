@@ -89,29 +89,14 @@
 					<!-- /Main navigation -->
 					<div class="otf-flex-item"></div>
 					<div class="site-header -icon">
-						<!-- search -->
-							<div class="site-header__search">
-				            <div class="ps-search-btn">
-				              	<i class="fa fa-search" aria-hidden="true"></i>
-				            </div>
-				            <div class="ps-search">
-						     <div class="ps-search__content">
-						     	<a class="ps-search__close" href="#"><span></span></a>
-						     	<h3 class="search_title">Enter your keyword</h3>
-						        <form method="get" class="searchform" action="#">
-									<div class="wiget-search input-group">
-									 <input name="s" maxlength="40" class="form-control input-search" type="text" size="20" placeholder="Searching..."> 
-
-									 <span class="input-group-addon input-large btn-search"> 
-									 	<span class="fa fa-search"></span>
-										<input type="submit" class="fa" value=""> 
-									 </span>
-									</div>
-								</form>
-						      </div>
-						    </div>
+						<!-- cart -->
+				      	<div class="site-header__cart item-dropdown">
+					        <a href="#" class="site-header__cart-toggle">
+								<span>Go Shopping</span>
+					          	<i class="fa fa-shopping-basket" aria-hidden="true"></i>
+					        </a>
 						</div>
-					</div>
+			        </div>
 				</nav>
 	    	</div>
 	    </div>
@@ -134,32 +119,7 @@
 					</ul>
 				</div>
 			</div>
-			<div class="site-header -icon">
-				<!-- search -->
-					<div class="site-header__search">
-			            <div class="ps-search-btn">
-			              	 <i class="fa fa-search" aria-hidden="true"></i>
-			            </div>
-			            <div class="ps-search">
-						    <div class="ps-search__content">
-						     	<a class="ps-search__close" href="#"><span></span></a>
-						     	<h3 class="search_title">Enter your keyword</h3>
-						        <form method="get" class="searchform" action="#">
-									<div class="wiget-search input-group">
-									 <input name="s" maxlength="40" class="form-control input-search" type="text" size="20" placeholder="Searching..."> 
-
-									 <span class="input-group-addon input-large btn-search"> 
-									 	<span class="fa fa-search"></span>
-									 	<input type="submit" class="fa" value=""> 
-									 </span>
-									</div>
-								</form>
-						    </div>
-					    </div>
-					</div>
-				<!--end search -->
-		    </div>
-	    </div>
+		</div>
 		
 		<nav class="navbar">
 		    <div class="navbar-header">
@@ -186,4 +146,14 @@
 		    </div>
 		</nav>
 	</div>
+
+	<div class="footer-mobile-bar">
+		<ul class="columns-2">
+			<li class="cart">
+				<a class="footer-cart-contents" href="#" title="Go Shopping">
+					<i class="fa fa-shopping-basket" aria-hidden="true"></i>
+				</a>
+			</li>
+		</ul>
+    </div>
 	
