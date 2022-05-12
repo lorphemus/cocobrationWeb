@@ -4,7 +4,7 @@
 	    		<div class="row">
 	    			<div class="col-md-6 col-sm-12 col-xs-12 footer-block">
 			    		<img src="assets/images/footer_logo.png" alt="">
-			    		<p class="address pt-30">Office: 972 Sylvan Street South Angelina, NL S0B2V9<br>
+			    		<p class="address pt-30">Office: Germany<br>
 							Phone: (633) 497-1888 / (062) 109-9222<br>
 							Email: example.com
 						</p>
